@@ -49,7 +49,7 @@ $ sudo docker exec -it guardrails_container bash
 - Now run the ParseScanResult.py file from /opt/ using following command
 
 ```bash
-# python3.6 /opt/ParseScanResult.py
+# python3.6 /opt/ParseScanResult.py /opt/test-src/
 ```
 
 - This will create results.json file at localtion /opt/results.json
