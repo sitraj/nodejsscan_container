@@ -4,6 +4,7 @@
 This repository will create Dockerized container whiich contains scna file written in Python3 to scan vulnerable code of NodeGoat from /opt/test-src/ folder.
 The scan result is parsed and converted into JSON file in following format.
 
+Docker image with name "guardrails" and container with "guardrails_container" will be created using this script.
 
 ## Directory Structure
 
